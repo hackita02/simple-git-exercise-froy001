@@ -1,7 +1,7 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat: <hummus>
+I like to hear: <various sofisticated musice>
+My hobbies are <reading, DJ'ing, welding, cooking, and many many more>.
 
-I would like to travel to <XXXX>.
+I would like to travel to <Africa>.
 
-"<XXXX Your favorite quote goes here>".
+"history is a nightmare from which i am trying to awake".
